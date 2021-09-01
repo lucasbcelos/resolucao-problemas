@@ -1,0 +1,7 @@
+O exercicio Proposto é:
+
+1 - Guardar uma lista de estudantes com o nome de cada aluno(a)
+2 - Apresentar o nome de cada aluno inserido.
+3 - O limite de inserção de alunos na lista são de 5, mais do que isso deve ser exibido uma mensagem de limite de alunos na lista 
+
+Tarefa Completa!
